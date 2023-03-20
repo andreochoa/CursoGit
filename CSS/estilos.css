@@ -2,4 +2,10 @@ body{
     background: rgb(3, 44, 68);
     font-weight: bold;
     color: rgb(237, 234, 236);
+    width: auto;
+
+}
+
+h1{
+    color: cadetblue;
 }
